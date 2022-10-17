@@ -1,2 +1,16 @@
 este comando me permite ver el estatus
 git status
+
+permite restaurar todos los cambios hechos
+git restore .
+
+permite agregar todos los cambios en local (stagged)
+git add .
+
+Agrega un comentario a tus cambios locales
+git commt -m "NOMBRE DE CAMBIO"
+
+Pushear al repositorio de GITHUB (gatito), GITLAB , BITBUCKET
+git push 
+
+
