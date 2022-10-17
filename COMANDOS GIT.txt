@@ -1,1 +1,2 @@
-Hola soy Fiorella
+este comando me permite ver el estatus
+git status
